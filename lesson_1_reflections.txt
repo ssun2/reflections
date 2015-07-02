@@ -1,0 +1,13 @@
+Git allows saving multiple files in 1 commit because I think it is built for version control systems so it is more robust ??
+
+while Google Docs treat each file separately
+
+
+
+hello Mary Lou, goodbye heart................
+
+command git log shows the log of all the changes made to the file (author, time , change + color coded.......)
+
+git diff enables to compare changes in two specified commits
+
+using version control gives the peace of mind that in case making some changes break something , it is easy to revert back 
