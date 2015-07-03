@@ -17,6 +17,11 @@ Branches eg are easy-mode  hard-mode  etc
 Branches keep history organised and gives more manageability
 I can be working on an experimental version on a separate branch and when ready merge that with master branch(now at another progressed state).
 
+pro and cons of git's automatic merging
+pro= less work , quicker
+cons= git can not make the vital decision of which update to keep if there is two updates in same file simultaneously by two users(?)
+it is best for a human to make the decision.
+
 Diagrams simplify (understandable) the concept of branch structure
 
 When we merge two branches together (in out case master and coins) we have added coins functionality to our game .
