@@ -1,0 +1,23 @@
+when we initialise a repository it starts tracking it???  it can start making committs??
+we need to do it so that we can track it with commits
+
+i think we need to use git add to specify and start git commits
+i will add (git add) lesson_1_reflections.txt and lesson_2_reflections.txt at the same commit
+
+staging area is different from the working directory, staging area is the list of files that we are going to commit???
+
+Repository is the collection history of changes of a particular file (in snapshots ??)
+
+
+Staging area is useful to make sure that I have one commit  per logical change.
+
+git diff --staged shows the difference of staged data and commited data so i have the control of when i want to make a commit.
+
+Branches eg are easy-mode  hard-mode  etc
+Branches keep history organised and gives more manageability
+I can be working on an experimental version on a separate branch and when ready merge that with master branch(now at another progressed state).
+
+Diagrams simplify (understandable) the concept of branch structure
+
+When we merge two branches together (in out case master and coins) we have added coins functionality to our game .
+we represent it in the diagram like a branch coin being joined with master branch , we do it the way because coin functionality was independently developed by Sarah while master was also being further developed by caroline and doug??  
