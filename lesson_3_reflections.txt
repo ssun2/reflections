@@ -1,2 +1,6 @@
 creating a remote repository rather than keeping all my work at local.
 kkkklllllll
+
+
+Rather than having Git automatically stay up-to-date with my remote repository I want to always pull changes manually because
+I always want to check first what is the update and decide if I want to keep it or not.
