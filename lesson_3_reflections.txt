@@ -4,3 +4,8 @@ kkkklllllll
 
 Rather than having Git automatically stay up-to-date with my remote repository I want to always pull changes manually because
 I always want to check first what is the update and decide if I want to keep it or not.
+
+Fork is different from clone because fork is the copied link from github to github and clone can be from github to local or local to local. 
+in fork there is a link to the original author and we are unable to change the author's version but we can always put up our updated forked version.
+
+Branch is a separate development branch in the local?? file??
