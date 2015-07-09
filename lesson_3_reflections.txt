@@ -9,3 +9,6 @@ Fork is different from clone because fork is the copied link from github to gith
 in fork there is a link to the original author and we are unable to change the author's version but we can always put up our updated forked version.
 
 Branch is a separate development branch in the local?? file??
+
+the benefit of having last known state of the remote stored locally is 
+the ability to compare the two versions and see the changes
