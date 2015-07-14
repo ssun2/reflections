@@ -18,4 +18,4 @@ I am proposing a change that I want/need my friends/colleages to collaborate in
 only after they see/review and we all agree on a change that I merge the branch into master(Before then it is better to be in a branch)
 
 युनिकोड युस गरेर नेपाली तैएफ गरेको फिर्स्त प्रयोग हो 
-[गीमैल को लागि यहाँ किलिक गर्नुस  ] (www.gmail.com)
+[गीमैल को लागि यहाँ किलिक गर्नुस  ] (http://www.gmail.com)
